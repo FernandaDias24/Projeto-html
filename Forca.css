@@ -1,0 +1,83 @@
+body{
+    background-color: #4f4c4c;
+}
+.Titulo{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+header{
+    background-color: #4f4c4c;
+}
+
+.Titulo h1{
+    font-family: keania one;
+    background-color: #fffdfd;
+    border: 10px solid #d9d9d9;
+    border-radius: 20px;
+    margin: 0 0 0 10px;
+}
+
+
+nav{
+    position: relative;
+    top: 10px;
+}
+nav li{
+    display: inline;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 5px 5px;
+    margin: 0 0 0 100px;
+
+    background-color: #fffdfd;
+    border: 10px solid #d9d9d9;
+    border-radius: 20px;
+
+}
+
+nav a{
+    text-decoration: none;
+}
+.Produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.Produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    background-color: #fffdfd;
+    margin: 1.5% 1.5%;
+    padding: 20px 20px;
+    box-sizing: border-box;
+
+    border: 10px solid #d9d9d9;
+    border-radius: 20px;
+    
+}
+.Produtos h2 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'inter';
+}
+
+.marca{
+    font-style: 16px;
+    font-weight: bold;
+    font-family: 'robot';
+}
+
+.descricao{
+    font-style: 16px;
+    font-family: 'robot';
+}
+
+.preco{
+    font-style: 16px;
+    font-weight: bold;
+    font-family: 'robot';
+}
